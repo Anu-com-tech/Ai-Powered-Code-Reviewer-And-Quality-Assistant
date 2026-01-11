@@ -1,0 +1,72 @@
+{
+  "files": [
+    {
+      "path": "examples\\sample_a.py",
+      "functions": [
+        {
+          "name": "calculate_average",
+          "args": [
+            "numbers"
+          ],
+          "returns": null,
+          "has_docstring": false,
+          "lineno": 3,
+          "generated_docstring": "\"\"\"Calculate average.\n\nArgs:\n    numbers (TYPE): Description.\n\n\"\"\""
+        },
+        {
+          "name": "add",
+          "args": [
+            "a",
+            "b"
+          ],
+          "returns": "int",
+          "has_docstring": true,
+          "lineno": 12
+        }
+      ],
+      "classes": [
+        {
+          "name": "Processor",
+          "methods": [
+            "process"
+          ],
+          "has_docstring": false,
+          "lineno": 17
+        }
+      ]
+    },
+    {
+      "path": "examples\\sample_b.py",
+      "functions": [
+        {
+          "name": "generator_example",
+          "args": [
+            "n"
+          ],
+          "returns": null,
+          "has_docstring": true,
+          "lineno": 2
+        },
+        {
+          "name": "raises_example",
+          "args": [
+            "x"
+          ],
+          "returns": null,
+          "has_docstring": false,
+          "lineno": 8,
+          "generated_docstring": "\"\"\"Raises example.\n\nArgs:\n    x (TYPE): Description.\n\n\"\"\""
+        }
+      ],
+      "classes": []
+    }
+  ],
+  "metrics": {
+    "files_scanned": 2,
+    "files_with_error": 0,
+    "total_functions": 4,
+    "documented_functions": 2,
+    "coverage_percent": 50,
+    "parser_accuracy_percent": 100
+  }
+}

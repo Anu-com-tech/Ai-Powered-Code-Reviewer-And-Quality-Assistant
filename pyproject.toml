@@ -1,0 +1,7 @@
+[tool.project]
+name = "ai_code_review_tool"
+version = "0.1.0"
+
+[tool.scripts]
+ai-scan = "cli.commands:run"
+
