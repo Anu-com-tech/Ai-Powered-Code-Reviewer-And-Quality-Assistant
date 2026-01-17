@@ -148,10 +148,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-This version now includes your **name, GitHub link, and email**, making it **fully professional, portfolio-ready, and certification-friendly**.
 
-If you want, I can make a **final “ultra-visual” version** with **GIFs/screenshots + badges + color-coded sections** so it looks **super attractive on GitHub**.
-
-Do you want me to make that?
 
 
