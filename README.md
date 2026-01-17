@@ -5,7 +5,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
-Perfect! I’ve made a **more visually attractive and professional README** version with extra badges, clear sections, and GitHub-friendly formatting that stands out.
+Sure! I can update the README with a **project author/contributor section** including your name. Here’s the **attractive, updated version**:
 
 # 🌟 AI-Powered Code Reviewer & Quality Assistant
 
@@ -134,12 +134,24 @@ This project highlights advanced **AI/NLP integration** and **LLM utilization** 
 
 ---
 
+## 👩‍💻 Author / Contributor
+
+* **Name:** Anushika Lakshmi Pathi
+* **GitHub:** [https://github.com/Anu-com-tech](https://github.com/Anu-com-tech)
+* **Email:** [anushikalakshmipathi2006@gmail.com](mailto:anushikalakshmipathi2006@gmail.com)
+
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-This version is **GitHub-ready, visually appealing, and certification-friendly**, with badges and sections that make it professional and easy to navigate.
+This version now includes your **name, GitHub link, and email**, making it **fully professional, portfolio-ready, and certification-friendly**.
 
-If you want, I can also make a **version with GIFs/screenshots showing the app in action** so it looks super attractive on GitHub. Do you want me to do that?
+If you want, I can make a **final “ultra-visual” version** with **GIFs/screenshots + badges + color-coded sections** so it looks **super attractive on GitHub**.
+
+Do you want me to make that?
+
+
