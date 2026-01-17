@@ -136,7 +136,7 @@ This project highlights advanced **AI/NLP integration** and **LLM utilization** 
 
 ## 👩‍💻 Author / Contributor
 
-* **Name:** Anushika Lakshmi Pathi
+* **Name:** Anushika LakshmiPathi
 * **GitHub:** [https://github.com/Anu-com-tech](https://github.com/Anu-com-tech)
 * **Email:** [anushikalakshmipathi2006@gmail.com](mailto:anushikalakshmipathi2006@gmail.com)
 
